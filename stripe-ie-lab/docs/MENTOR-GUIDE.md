@@ -70,3 +70,49 @@ Week N:
 ## Resources map
 
 See [LEARNING-RESOURCES.md](./LEARNING-RESOURCES.md) for links and Scrimba discipline.
+
+## GitHub + how we work day to day
+
+### Do you need to push to GitHub?
+
+**Yes, eventually — but for learning, not for show.** Git is how you (and I) see progress: drills, notes, small commits. You do **not** need a public repo or a perfect history.
+
+**Recommended setup**
+
+1. Create a **private** GitHub repo, e.g. `stripe-ie-learning` (free private repos are fine).
+2. Copy the `stripe-ie-lab/` folder into it (or merge the PR from this workspace if that repo is yours).
+3. Work on **`main`** or short branches like `week-1-async` — no need for fancy git flow while learning.
+4. Commit small and often:
+   - `drills/async/retry.practice.ts`
+   - filled weekly log under `docs/deal-bridge/logs/`
+   - Project A when you reach Phase 1
+
+**Never commit:** `.env`, `sk_live_`, `sk_test_` in code, customer names, deal details you cannot share. Use `.env` (already gitignored in projects).
+
+### How you and I (Cursor / Cloud Agent) work together
+
+This is **not** a live daily standup. It works like a mentor you message when you do the work:
+
+1. You do the **weekly block** (Phase 0 reading, Scrimba, one drill).
+2. You **push to your private repo** (optional but good habit).
+3. You send a message with the **weekly template** (above) + paste errors or `@` files from your repo.
+4. I respond with: what to fix, what to skip, and **one goal** for next week — not a new course list.
+
+If you open this project in Cursor on the same repo, I can read your files and edit with you. If you only chat without a repo, paste code snippets and error text — that still works, but GitHub helps.
+
+### What about the PR in this workspace?
+
+The lab was added on branch `cursor/ie-learning-lab-22f2` in `-Etch-a-Sketch`. If that repo is just a sandbox:
+
+- **Copy** `stripe-ie-lab/` to your **own private repo** and treat that as home base.
+- If it *is* your repo, merge the PR when you want and clone locally to your machine.
+
+### Minimum rhythm
+
+| When | Action |
+|------|--------|
+| After each study session | Save file locally; commit if you use Git |
+| Once per week | Push to GitHub + send weekly template here |
+| When stuck 45+ min | Message with exact error + what you tried |
+
+Progress = **files you wrote** + **weekly message**, not hours of video.
