@@ -14,6 +14,11 @@ Project-first Node/TypeScript practice aligned with integration engineer (IE) wo
 
 Hands-on Promise exercises used in weeks 1–2: [drills/async](./drills/async/)
 
+## Mentor path (start here if you’re not “an engineer yet”)
+
+- [Mentor guide — phases, rules, weekly template](./docs/MENTOR-GUIDE.md)
+- [Learning resources — Scrimba + javascript.info order](./docs/LEARNING-RESOURCES.md)
+
 ## Job bridge & career
 
 - [Deal integration notes template](./docs/deal-bridge/integration-surface-template.md)
