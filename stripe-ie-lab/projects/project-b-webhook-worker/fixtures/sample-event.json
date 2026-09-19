@@ -1,0 +1,12 @@
+{
+  "id": "evt_test_fixture",
+  "object": "event",
+  "type": "checkout.session.completed",
+  "data": {
+    "object": {
+      "id": "cs_test_fixture",
+      "object": "checkout.session",
+      "payment_status": "paid"
+    }
+  }
+}
