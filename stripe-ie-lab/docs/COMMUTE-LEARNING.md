@@ -67,6 +67,15 @@ Review Sunday for 5 minutes before the week.
 ~30–45 min/day × 5 ≈ 2.5–4 h of **reading/listening**.  
 Matches ~5 h/week total if desk time covers drills + one small commit.
 
+## TypeScript on the bus (only after Phase 0 async)
+
+Do **not** start TS before Promises click. Then:
+
+- [TS Handbook — Everyday Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html) on phone (stop at unions)
+- Read [TYPESCRIPT-PRIMER.md](./TYPESCRIPT-PRIMER.md) — no coding required on the bus
+
+Skip TS video courses on commute.
+
 ## 2-week commute plan (Phase 0)
 
 | Day | Commute focus |

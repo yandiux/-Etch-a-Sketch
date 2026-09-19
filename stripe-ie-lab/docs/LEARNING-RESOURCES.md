@@ -28,10 +28,12 @@
 - Every 3–5 minutes: pause, close screencast, retype in VS Code
 - End of session: one sentence “what I learned” in [weekly-bridge-log-template.md](./deal-bridge/weekly-bridge-log-template.md)
 
-## TypeScript (after Phase 0, alongside Project A)
+## TypeScript (Phase 0.5 — after async JS, before Project A)
 
-- [TS Handbook — Everyday Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
-- [TS Handbook — Object Types](https://www.typescriptlang.org/docs/handbook/2/objects.html)
+Start here: [TYPESCRIPT-PRIMER.md](./TYPESCRIPT-PRIMER.md) (written for “I know nothing about TS”)
+
+- [TS Handbook — Everyday Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html) — commute + desk
+- [TS Handbook — Object Types](https://www.typescriptlang.org/docs/handbook/2/objects.html) — when you read Project A routes
 
 ## Stripe (when building)
 

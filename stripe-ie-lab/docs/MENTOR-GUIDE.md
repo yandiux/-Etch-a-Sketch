@@ -25,7 +25,11 @@ You are **not** pretending to be a senior software engineer. You are becoming so
 
 ## Phase 0 — “Not an engineer yet” (you are here)
 
-Goal: comfort with **async** and reading small TS files. **Do not rush Project A** until Phase 0 checks pass.
+Goal: comfort with **async JavaScript**. TypeScript is **not** part of Phase 0.
+
+You do **not** need to know TypeScript yet. Project A is written in TS, but you only open it **after** Phase 0 + the [90-minute TypeScript primer](./TYPESCRIPT-PRIMER.md). Until then, all drills are plain `.ts` files you can treat like JS with extra labels.
+
+**Do not rush Project A** until Phase 0 checks pass.
 
 ### Phase 0 exit checklist
 
@@ -37,9 +41,15 @@ Goal: comfort with **async** and reading small TS files. **Do not rush Project A
 
 **Estimated time:** 2–3 weeks at 5 h/week if async is hard; 1 week if it clicks.
 
+## Phase 0.5 — TypeScript (about 90 minutes, after Phase 0)
+
+- Read [TYPESCRIPT-PRIMER.md](./TYPESCRIPT-PRIMER.md)
+- Handbook: [Everyday Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html) (commute-friendly)
+- **Do not** start a full TS video course
+
 ## Phase 1 — First shippable integration (Project A)
 
-Only after Phase 0.
+Only after Phase 0 **and** Phase 0.5.
 
 - Run Project A with **your** test key
 - One successful Checkout in the browser
