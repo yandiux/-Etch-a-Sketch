@@ -1,5 +1,7 @@
 # Learning resources (IE path, not full CS degree)
 
+**On the bus (no laptop):** [COMMUTE-LEARNING.md](./COMMUTE-LEARNING.md)
+
 ## Priority order
 
 1. **javascript.info** — async chapters (free, precise)
